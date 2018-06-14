@@ -1,2 +1,3 @@
 bad genetics.pet : A really tiny dog. Created by changing the [Default Scales] section.
 Bootz.pet : Played with the values and set them to extreme values. Breaks the pet and makes it glitch a lot. 
+BlackSheepDog.dog : First successful new "breed". Just a sheepdog, changed to be always all black. Saved under breed ID 2000. 
