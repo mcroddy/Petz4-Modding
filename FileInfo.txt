@@ -2,3 +2,4 @@ bad genetics.pet : A really tiny dog. Created by changing the [Default Scales] s
 Bootz.pet : Played with the values and set them to extreme values. Breaks the pet and makes it glitch a lot. 
 BlackSheepDog.dog : First successful new "breed". Just a sheepdog, changed to be always all black. Saved under breed ID 2000. 
 Pink Dalmation: A reskin of the Dalmation, but now with pink spots. Saved under breed ID 2002. Now, the icon in the adoption center displays the modified breed instead of the original Dalmation. 
+huhh.pet : A Pink Dalmation x BlackSheepDog cross. Came out as a white sheepdog with pink spots and ears.
